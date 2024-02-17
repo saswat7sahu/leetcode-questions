@@ -1,3 +1,4 @@
+//search An element in mountain array 
 public class SearchElement {
     public static void main(String[] args) {
         int num[] = { 2, 4, 5, 6, 89 ,43,33,22,1};
