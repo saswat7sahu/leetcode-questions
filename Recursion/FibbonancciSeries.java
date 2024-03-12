@@ -1,4 +1,4 @@
-package Recursion;
+
 //find nth fibonacci number 
 class FibbonancciSeries {
     public static void main(String[] args) {
