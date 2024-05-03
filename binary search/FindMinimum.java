@@ -1,4 +1,4 @@
-//find minimum in rotated sorted array with time complexity 0(log n)
+//find minimum in rotated sorted array with time complexity 0(log n
 public class FindMinimum {
 
     public static void main(String[] args) {
