@@ -1,3 +1,4 @@
+//find the pow of a num
 public class PowOfNum {
     public static void main(String[] args) {
         System.out.println(myPow(0.00001, 2147483647));
